@@ -2,7 +2,7 @@
 
 🧾 Introduction
 
-Airbnb, a global company engaged in the short-term rental of accommodations, such as homes, apartments, rooms, or other unique spaces. Airbnb.com is an online marketplace that connects property owners (hosts) with guests looking for accommodation.
+Airbnb.com, a global company engaged in the short-term rental of accommodations, that connects property owners (hosts) with guests looking for accommodation.
 With increasing competition and the need for personalized service,  it is important to understand the types or segments of listings available on their platform. 
 
 📌 Project Overview
@@ -10,12 +10,18 @@ This project aims to segment Airbnb listings in New York City using unsupervised
 
 ✅ Objectives
 🔍 Understand listing patterns and segment them into distinct clusters
+🧠 Provide business insights for Airbnb stakeholders (pricing, engagement)
+🛠️ Build an end-to-end clustering pipeline including preprocessing, modeling, visualization and building an interactive dashboard for data exploration and segmentation using Streamlit.
 
-🧠 Provide business insights for Airbnb stakeholders (pricing, engagement, location)
-
-🛠️ Build an end-to-end clustering pipeline including preprocessing, modeling, visualization and Build an interactive web with Streamlit
-
-
+✅ Goals
+- Perform EDA (Exploratory Data Analysis)
+- Clean and preprocess the dataset
+- Handle missing values and outliers
+- Implement K-Means clustering and evaluate with silhouette score
+- Apply scaling and dimensionality reduction
+- Interpret and visualize each cluster
+- Build an interactive dashboard with Streamlit
+  
 Result : 
 
 CLuster 0 🔴 = Populer
