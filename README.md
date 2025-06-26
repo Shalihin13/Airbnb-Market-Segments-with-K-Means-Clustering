@@ -2,9 +2,8 @@
 
 🧾 Introduction
 
-Airbnb, a global company engaged in the short-term rental of accommodations, such as homes, apartments, rooms, or other unique spaces.
-
-Airbnb.com is an online marketplace that connects property owners (hosts) with guests looking for accommodation.
+Airbnb, a global company engaged in the short-term rental of accommodations, such as homes, apartments, rooms, or other unique spaces. Airbnb.com is an online marketplace that connects property owners (hosts) with guests looking for accommodation.
+With increasing competition and the need for personalized service,  it is important to understand the types or segments of listings available on their platform. 
 
 📌 Project Overview
 This project aims to segment Airbnb listings in New York City using unsupervised machine learning techniques (mainly K-Means Clustering) based on key listing features such as price, availability, and review metrics.
