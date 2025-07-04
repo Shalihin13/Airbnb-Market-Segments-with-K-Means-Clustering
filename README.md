@@ -28,7 +28,7 @@ This project aims to segment Airbnb listings in New York City using unsupervised
   
 Result : 
 
-CLuster 0 🔴 = Populer
+CLuster 0 🔴 = Populer<b>
 This Cluster represents properties with affordable prices but high occupancy rates. Listings in this cluster perform very well in terms of number of reviews and rental frequency, indicating high appeal among budget travelers.
 
 CLuster 1 🟡 = Dormant 
