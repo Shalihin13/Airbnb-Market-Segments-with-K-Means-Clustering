@@ -29,15 +29,12 @@ This project aims to segment Airbnb listings in New York City using unsupervised
 Result : 
 
 CLuster 0 🔴 = Populer
-
 This Cluster represents properties with affordable prices but high occupancy rates. Listings in this cluster perform very well in terms of number of reviews and rental frequency, indicating high appeal among budget travelers.
 
 CLuster 1 🟡 = Dormant 
-
 This cluster reflects listings with low rental activity. This is likely due to lack of visibility, less competitive pricing, or less strategic location.
 
 Cluster 2 🔵 = Premium 
-
 This Cluster consists of exclusive property listings with higher rental rates and high availability. Targeting the upper-end market segment with a preference for comfort and quality of service.
 
 Model deployment with Streamlit link: https://airbnb-market-segments-with-k-means-clustering.streamlit.app/
