@@ -9,8 +9,11 @@ With increasing competition and the need for personalized service,  it is import
 This project aims to segment Airbnb listings in New York City using unsupervised machine learning techniques (mainly K-Means Clustering) based on key listing features such as price, availability, and review metrics.
 
 ✅ Objectives
+
 🔍 Understand listing patterns and segment them into distinct clusters
+
 🧠 Provide business insights for Airbnb stakeholders (pricing, engagement)
+
 🛠️ Build an end-to-end clustering pipeline including preprocessing, modeling, visualization and building an interactive dashboard for data exploration and segmentation using Streamlit.
 
 ✅ Goals
