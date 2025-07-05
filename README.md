@@ -40,4 +40,6 @@ Cluster 2 🔵 = Premium
 
 This Cluster consists of exclusive property listings with higher rental rates and high availability. Targeting the upper-end market segment with a preference for comfort and quality of service.
 
+Appendix
 Model deployment with Streamlit link: https://airbnb-market-segments-with-k-means-clustering.streamlit.app/
+Pdf link : [https://drive.google.com/file/d/1kLnFfmAyB6uFq_2QZBlwBB5l7-hVDOOg/view?usp=sharing](https://drive.google.com/file/d/1kLnFfmAyB6uFq_2QZBlwBB5l7-hVDOOg/view?usp=sharing)
