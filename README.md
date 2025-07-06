@@ -26,7 +26,7 @@ This project aims to segment Airbnb listings in New York City using unsupervised
 - Interpret and visualize each cluster
 - Build an interactive dashboard with Streamlit
   
-Result : 
+🧠 Result : 
 
 CLuster 0 🔴 = Populer
 
