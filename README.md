@@ -1,49 +1,74 @@
-# Airbnb-Market Segments with K-Means Clustering
+# 🏡 Airbnb Market Segments with K-Means Clustering
 
-🧾 Introduction
+🧾 Airbnb.com is a global platform for short-term property rentals that connects hosts with guests seeking accommodations.  
+With growing competition and the demand for personalized service, understanding the **types of listings (market segments)** on the platform is essential for better pricing, engagement, and customer targeting.
 
-Airbnb.com, a global company engaged in the short-term rental of accommodations, that connects property owners (hosts) with guests looking for accommodation.
-With increasing competition and the need for personalized service,  it is important to understand the types or segments of listings available on their platform. 
+---
 
-📌 Project Overview
+## 📌 Project Overview
 
-This project aims to segment Airbnb listings in New York City using unsupervised machine learning techniques (mainly K-Means Clustering)
+- **Goal:** Segment Airbnb listings in New York City using unsupervised machine learning techniques (mainly K-Means Clustering)
+- **Scope:**
+  - 🧼 Exploratory Data Analysis (EDA)
+  - 🧹 Data cleaning, preprocessing
+  - ⚠️ Handling missing values & outliers
+  - 🧪 K-Means clustering with silhouette score
+  - 📐 Feature scaling + dimensionality reduction (PCA)
+  - 📊 Cluster interpretation and visualization
+  - 🖥️ Interactive dashboard built using Streamlit
 
-✅ Objectives
+---
 
-🔍 Understand listing patterns and segment them into distinct clusters
+## ✅ Objectives
 
-🧠 Provide business insights for Airbnb stakeholders (pricing, engagement)
+- 🔍 **Understand listing patterns** and group them into meaningful market segments  
+- 💡 **Provide business insights** for pricing strategy, engagement improvement, and resource allocation  
+- 🧠 **Real-time cluster insight** using an interactive Streamlit dashboard  
 
-🛠️ Build an easy-to-use interface with Streamlit that can predict cluster  characteristics in real time
+---
 
-✅ Goals
-- Perform EDA (Exploratory Data Analysis)
-- Clean and preprocess the dataset
-- Handle missing values and outliers
-- Implement K-Means clustering and evaluate with silhouette score
-- Apply scaling and dimensionality reduction
-- Interpret and visualize each cluster
-- Build an interactive dashboard with Streamlit
-  
-🧠 Result : 
+## 🧠 Results: Cluster Interpretation
 
-CLuster 0 🔴 = Populer
+| Cluster | Label     | Description                                                                                  |
+|---------|-----------|----------------------------------------------------------------------------------------------|
+| 🔴 0     | **Popular**   | Budget-friendly listings with **high reviews and occupancy**, favored by **budget travelers** |
+| 🟡 1     | **Dormant**   | Listings with **low rental activity**, possibly due to poor visibility, pricing, or location   |
+| 🔵 2     | **Premium**   | High-end listings with **higher prices and availability**, targeting **comfort-seeking guests** |
 
-This Cluster represents properties with affordable prices but high occupancy rates. Listings in this cluster perform very well in terms of number of reviews and rental frequency, indicating high appeal among budget travelers.
+---
 
-CLuster 1 🟡 = Dormant 
+## 📈 Tools & Techniques
 
-This cluster reflects listings with low rental activity. This is likely due to lack of visibility, less competitive pricing, or less strategic location.
+- **Libraries:** `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `streamlit`
+- **Algorithms:** K-Means Clustering, PCA (Principal Component Analysis)
+- **Evaluation:** Silhouette Score
 
-Cluster 2 🔵 = Premium 
+---
 
-This Cluster consists of exclusive property listings with higher rental rates and high availability. Targeting the upper-end market segment with a preference for comfort and quality of service.
+## 🚀 Live App
 
-🎯 Appendix
+🔗 **Streamlit App:**  
+[🌐 Open Dashboard](https://airbnb-market-segments-with-k-means-clustering.streamlit.app/)
 
-Model deployment with Streamlit link: https://airbnb-market-segments-with-k-means-clustering.streamlit.app/
+---
 
-Pdf link : [https://drive.google.com/file/d/1kLnFfmAyB6uFq_2QZBlwBB5l7-hVDOOg/view?usp=sharing](https://drive.google.com/file/d/1kLnFfmAyB6uFq_2QZBlwBB5l7-hVDOOg/view?usp=sharing)
+## 📄 Report
 
-📣 Open for feedback, discussion, collaboration !!
+📥 **Download full report (PDF):**  
+[Airbnb Clustering Report - Google Drive](https://drive.google.com/file/d/1kLnFfmAyB6uFq_2QZBlwBB5l7-hVDOOg/view?usp=sharing)
+
+---
+
+
+---
+
+## 📣 Let's Connect
+
+💬 I'm open for **feedback, discussions, and collaborations** on this project or anything data-related!
+
+📧 Email: zayntaufik.28@gmail.com  
+🔗 [LinkedIn – Shalihin](https://linkedin.com/in/shalihin2205)
+
+---
+
+
