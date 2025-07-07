@@ -54,7 +54,7 @@ With growing competition and the demand for personalized service, understanding 
 
 ## 📄 Report
 
-📥 **Download full report (PDF):**  
+👁️**View full report (PDF):**  
 [Airbnb Clustering Report - Google Drive](https://drive.google.com/file/d/1kLnFfmAyB6uFq_2QZBlwBB5l7-hVDOOg/view?usp=sharing)
 
 ---
